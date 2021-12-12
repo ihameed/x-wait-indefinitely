@@ -1,0 +1,3 @@
+*.o
+*.obj
+x-wait-indefinitely
